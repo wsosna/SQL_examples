@@ -1,6 +1,6 @@
 # SQL
 
-#### Pivot - example
+### Pivot - example
 
 ##### BEFORE
 ---
