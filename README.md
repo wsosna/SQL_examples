@@ -1,7 +1,5 @@
 # SQL
 
-#
-#
 #### Pivot - example
 
 ##### BEFORE
